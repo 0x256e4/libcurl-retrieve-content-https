@@ -16,5 +16,4 @@ Simple libcurl to crawl html for http/https website.
 Reference:
 
 [curl](https://curl.se/)
-
 [libcurl homepage](https://curl.se/libcurl/)
