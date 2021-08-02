@@ -1,5 +1,5 @@
 # libcurl
-**libcurl is a _free_ and easy-to-use client-side URL transfer library, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl supports SSL certificates, HTTP POST, HTTP PUT, FTP uploading, HTTP form based upload, proxies, HTTP/2, HTTP/3, cookies, user+password authentication (Basic, Digest, NTLM, Negotiate, Kerberos), file transfer resume, http proxy tunneling and more!**
+libcurl is a _**free**_ and easy-to-use client-side URL transfer library, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl supports SSL certificates, HTTP POST, HTTP PUT, FTP uploading, HTTP form based upload, proxies, HTTP/2, HTTP/3, cookies, user+password authentication (Basic, Digest, NTLM, Negotiate, Kerberos), file transfer resume, http proxy tunneling and more!
 
 # about this program
 Simple libcurl to crawl html for http/https website.
@@ -14,5 +14,6 @@ Simple libcurl to crawl html for http/https website.
 7. save the stdout into file with `>` eg. `./libcurl-https > outputfile.txt` (optional)
 
 Reference:
-_[curl](https://curl.se/)
-_[libcurl homepage](https://curl.se/libcurl/)
+[curl](https://curl.se/)
+
+[libcurl homepage](https://curl.se/libcurl/)
