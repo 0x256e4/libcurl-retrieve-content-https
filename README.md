@@ -17,7 +17,6 @@ $ cd libcurl-https
 4. change the url in line 14
 ```
 $ curl_easy_setopt(curl, CURLOPT_URL, "_**YOUR URL**_");
-
 ```
 5. compile with Makefile with
 ```
