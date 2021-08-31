@@ -13,22 +13,9 @@ $ git clone https://github.com/0x256e4/libcurl-https.git
 ```
 $ cd libcurl-https
 ```
-3. edit libcurl-simple-curl.c with text editor
-4. change the url in line 14
+3. execute run.sh, use -u flag for url
 ```
-$ curl_easy_setopt(curl, CURLOPT_URL, "_**YOUR URL**_");
-```
-5. compile with Makefile with
-```
-$ make
-```
-6. execute the program with dot slash
-```
-$ ./libcurl-https
-```
-7. save the stdout into file with `>` eg. 
-```
-$ ./libcurl-https > outputfile.txt
+$ bash run.sh -u "url"
 ```
 
 Reference:
