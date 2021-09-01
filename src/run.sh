@@ -13,7 +13,7 @@ if [[ -e "libcurl-https" ]]; then
   make clean
   exit 0
 else
-  make clean; make
+  make
   ./libcurl-https "$site" > output.txt
   make clean
   exit 0
